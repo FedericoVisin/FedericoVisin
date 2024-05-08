@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FedericoVisin
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently in vacation
-- 💞️ I’m actually working on a Minecraft Server with @ModernManuh
+- 💞️ I’m actually working on a Minecraft Server
 - 📫 How to reach me: https://t.me/edeffocir
 
 <!---
