@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FedericoVisin
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently in vacation
+- 🌱 I’m studying Informatics at USI
 - 💞️ I’m actually working on a Minecraft Server
 - 📫 How to reach me: https://t.me/edeffocir
 
